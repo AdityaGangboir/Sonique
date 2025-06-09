@@ -29,6 +29,7 @@ Shadcn/UI + Tailwind CSS – to build sleek, responsive, and accessible UIs
 Cloudinary - For storing musics and albums
 
 ✨ Key Features
+
 🎵 Stream high-quality music directly from the homepage
 
 📀 Browse and explore albums with beautiful UI
@@ -44,28 +45,31 @@ Cloudinary - For storing musics and albums
 🎨 Fully responsive and clean design using Shadcn and Tailwind
 
 📸 Screenshots of the Web App
-🎧 Music Streaming Home Page
+
+🎧 Music Streaming Home Page-
 The Home Page is your music dashboard. Users can browse featured songs, start playback instantly, and enjoy a fluid streaming experience.
 ![alt text](frontend/public/HomePage.png)
 
-🛠️ Admin Page
+🛠️ Admin Page-
 Admins can securely access this page to upload new tracks, create albums, and manage music content on the platform.
 ![alt text](frontend/public/AdminPage.png)
 
-💿 Album Page
+💿 Album Page-
 Shows a curated list of songs in each album. Users can click to play individual tracks or shuffle through an entire album.
 ![alt text](frontend/public/AlbumPage.png)
 
-💬 Messaging Page
+💬 Messaging Page-
 Real-time chat feature where users can talk, suggest tracks, or just hang out while listening to their favorite music.
 ![alt text](frontend/public/ChatPage.png)
 
 📌 Why I Built Sonique
+
 I built Sonique as a passion project to combine music and technology. My goal was to create an interactive, real-time platform where people can not only stream music but also communicate and share the moment with others.
 
 This project reflects everything I've learned about full-stack development — from React on the frontend, to Node/Express on the backend, and real-time WebSocket communication using Socket.IO.
 
 🛠️ Future Improvements
+
 🌐 Music search & filter system
 
 ❤️ Like/favorite functionality
