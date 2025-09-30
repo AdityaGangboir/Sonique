@@ -5,7 +5,7 @@
   </p>
 
   <div style="margin: 20px 0;">
-    <img src="https://img.shields.io/badge/last%20commit-june-informational?style=flat-square" />
+    <img src="https://img.shields.io/badge/last%20commit-sept-informational?style=flat-square" />
     <img src="https://img.shields.io/badge/typescript-78.4%25-blue?style=flat-square" />
     <img src="https://img.shields.io/badge/languages-4-blue?style=flat-square" />
   </div>
