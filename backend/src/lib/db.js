@@ -1,4 +1,8 @@
 import mongoose from "mongoose";
+import dns from "dns";
+
+// Fix Node.js DNS resolution issues on Windows & ISP networks for mongodb+srv://
+dns.setServers(["8.8.8.8", "8.8.4.4", "1.1.1.1"]);
 
 export const connectDB = async () => {
 	try {
@@ -9,3 +13,4 @@ export const connectDB = async () => {
 		process.exit(1); // 1 is failure, 0 is success
 	}
 };
+
